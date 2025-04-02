@@ -9,12 +9,21 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/khanhuitse05" target="blank"><img src="https://img.shields.io/twitter/follow/khanhuitse05?logo=twitter&style=for-the-badge" alt="khanhuitse05" /></a> </p>
 
-- 📱 I’m a Software developer, I love creating apps for both iOS and Android
-- 🌱 I’m currently learning **BE & NestJS**
-- 💬 You can reach me on Telegram: [@khanhuitse05](https://t.me/khanhuitse05)
-- 📫 LinkedIn: [@khanhuitse05](https://www.linkedin.com/in/khanhuitse05)
-- 🧩 Feel free to contact me to contribute to projects
-- ⚡ Fun fact: 🙈 🧑🏻‍💻 ⚽️
+🚀 Software Developer | Crafting Digital Experiences
+🔹 Passionate about Mobile & Backend Development
+📱 Building sleek, high-performance iOS & Android apps
+🔭 Currently at Golden Owl Consulting Ltd
+🌱 Expanding expertise in C#, Java & NestJS
+💡 Always exploring new technologies & best practices
+
+🤝 Let’s Connect
+💬 Telegram: @imisthanhthien
+📫 LinkedIn: @imisthanhthien
+🧩 Open to collaborations & innovative projects
+
+⚡ Fun Fact: Coffee fuels my code ☕️ | Tech & football enthusiast ⚽
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
