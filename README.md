@@ -7,11 +7,11 @@ Here are some ideas to get you started:
 ### Hi, I’m Thien Nguyen 👋
 
 
-- 🚀 Software Developer | Crafting Digital Experiences
-- 🔹 Passionate about Mobile & Backend Development
-- 📱 Building sleek, high-performance iOS & Android apps
-- 🌱 Expanding expertise in C#, Java & NestJS
-- 💡 Always exploring new technologies & best practices
+- 👨‍💻 Software Developer | Building Digital Experiences  
+- 📱 Mobile & Backend Dev Enthusiast  
+- ⚙️ Creating smooth iOS & Android apps 
+- 🧠 Learning C#, Java & NestJS  
+- 🚀 Embracing innovation & clean code culture  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
