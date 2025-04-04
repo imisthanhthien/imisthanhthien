@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 🚀 Software Developer | Crafting Digital Experiences
 - 🔹 Passionate about Mobile & Backend Development
 - 📱 Building sleek, high-performance iOS & Android apps
-- 🔭 Currently at Golden Owl Consulting Ltd
 - 🌱 Expanding expertise in C#, Java & NestJS
 - 💡 Always exploring new technologies & best practices
 
